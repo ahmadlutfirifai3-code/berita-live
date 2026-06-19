@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "env": {
+    "NEWS_API_KEY": "d6b418f827ad43509859dbdb6f4ecde5"
+  }
+}
